@@ -6,7 +6,6 @@ namespace  zmxy\src\request;
  * @author auto create
  * @since 1.0, 2016-10-13 11:47:09
  */
-namespace  Zmxy\request;
 class ZhimaCreditScoreGetRequest
 {
 	/** 
