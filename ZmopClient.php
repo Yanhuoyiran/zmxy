@@ -1,5 +1,5 @@
 <?php
-namespace  zmxy\src;
+namespace  zmxy;
 use Zmxy\util\RSAUtil;
 use Zmxy\util\WebUtil;
 use Zmxy\log\LtLogger;
